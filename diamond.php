@@ -1,6 +1,6 @@
 <?php
 //Para adicionar a quantidade, mudar na váriavel "$num"
-echo "\n======= DINAMOD =======\n\n";
+echo "\n======= DIAMOND =======\n\n";
 
 $num=4;
 
