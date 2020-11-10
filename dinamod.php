@@ -1,5 +1,5 @@
 <?php
-//Para adicionar a quantidade, muda o "$num"
+//Para adicionar a quantidade, mudar na váriavel "$num"
 echo "\n======= DINAMOD =======\n\n";
 
 $num=4;
